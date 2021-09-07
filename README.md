@@ -5,4 +5,4 @@ To use compile and run with two filename arguments - first is target to open, se
 
 For interesting results, uncomment comments labeled with 'remove for interesting results.
 
-![Interesting_result](dale1.png)
+![Interesting_result](Dale_crazied.png)
